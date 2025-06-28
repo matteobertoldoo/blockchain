@@ -27,7 +27,7 @@ Create a fully decentralized Web3 sports betting platform named **BETZILLA**, de
 
 ---
 
-## **2. 🔗 Smart Contract (Solidity on Ethereum)**
+## **2. 🔗 Smart Contract (Solidity on Ethereum)** --> TESTNET LOCALE
 
 ### **Key Updates for Early Bettor Bonus:**
 
@@ -487,6 +487,19 @@ export default function MatchBettingCard({ matchId, homeTeam, awayTeam }) {
     </div>);
 }
 ```
+API -->
+our free API-key for football-data.org
+Posta in arrivo
+
+Daniel (football-data.org) <Daniel@football-data.org>
+mar 1 apr, 18:56
+a me
+
+Hi Matteo Bertoldo,
+thanks for registering for an API authentication token. Please modify your client to use a HTTP header named "X-Auth-Token" with the underneath personal token as value.
+
+Your API token: 021e2a4d3c5d44e2a7451c637a951009
+
 
 ### **Best Practices Implementate:**
 
